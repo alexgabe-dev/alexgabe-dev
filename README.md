@@ -1,14 +1,12 @@
-I'm a digital marketing manager with a passion for web development, web design (UI/UX), and front-end technologies. Here's a snapshot of who I am and what I'm up to:
+I’m a digital marketing professional with a strong interest in frontend development and technical solutions. I specialize in building clean, functional designs and tools that solve real-world problems. My current focus includes frontend technologies (HTML, CSS, JavaScript), JavaScript frameworks, and AI-driven automation. I also enjoy creating Discord bots and exploring innovative ways to integrate AI into web applications.
 
-👀 As a digital marketing manager, I thrive on crafting clean and classy designs. In my spare time, I delve into web development and enjoy frontend challenges.
-🌱 I’m currently learning the basics of HTML, CSS, JavaScript, Node.js, databases, and dabbling in Python for fun projects.
-💡 I'm all ears for any advice that can help me improve during my learning journey.
-📧 You can reach me at my email address: gbrsandor@outlook.com.
-⚡ Fun fact: I'm 22 years old and fascinated by new technologies like AI, VR, and always eager to explore more.
-Feel free to connect with me and explore my journey into the world of coding and digital creativity!
+Skills
+Frontend Development: HTML, CSS, JavaScript, modern frameworks
+Automation: AI-powered tools, Python scripting, workflow optimization
+Discord Bots: JavaScript, Discord.js, bot middleware
+Web Development: Node.js, database integration, REST APIs
 
-Feel free to connect with me and explore my journey into the world of coding and digital creativity!
-<!---
-gbrsndr/gbrsndr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interests
+AI-driven automation for marketing and development workflows
+Building interactive, user-friendly frontend experiences
+Exploring emerging technologies and frameworks
