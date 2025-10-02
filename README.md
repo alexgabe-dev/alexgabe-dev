@@ -1,38 +1,40 @@
-## Hi there, I’m a Digital Marketing Strategist & Frontend Enthusiast 👋
+## Hey there! I’m a Digital Marketer & Frontend Developer 👋
 
-With a foundation in data-driven marketing and a passion for coding, I bridge the gap between creative campaigns and elegant, performant web solutions. My mission is to craft intuitive user experiences that not only look great but also deliver measurable results.
-
----
-
-### 🔭 What I’m Working On
-
-- **AI-Powered Marketing Automation:** Developing tools that leverage machine learning to streamline campaign workflows and personalize customer journeys.
-- **Interactive Frontend Projects:** Building responsive, accessible interfaces using modern frameworks like React and Vue.
-- **Discord Bots & Chat Integrations:** Designing feature-rich bots with Discord.js to enhance community engagement and support.
+I’m someone who enjoys blending creativity with code. With a background in digital marketing and a knack for frontend development, I like building projects that look good, work smoothly, and help businesses connect with people better. I’m also into the nitty-gritty behind the scenes—like servers, Linux, and automating systems—to keep things running efficiently and securely.
 
 ---
 
-### 💡 Core Skills
+### 🔭 What I’m Up To These Days
 
-- **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js
-- **Automation & Scripting:** Python, Node.js, AI-driven scripts, workflow optimization
-- **APIs & Integrations:** RESTful services, database design (MongoDB, PostgreSQL), third-party APIs
-- **Dev Tools & Methodologies:** Git, Webpack, Jest, CI/CD pipelines
-
----
-
-### 🌱 Currently Exploring
-
-- **AI-Enhanced Web Experiences:** Integrating GPT-based models directly into UIs for dynamic content and chat features.
-- **Serverless Architectures:** Deploying scalable functions with AWS Lambda and Netlify Functions.
-- **Progressive Web Apps (PWAs):** Offline-first design and performance optimizations.
+- **Marketing Automation:** Creating simple, practical tools to make campaigns run smoother with a little help from machine learning.
+- **Frontend Side Projects:** Crafting clean, responsive websites with React and Vue that feel intuitive and accessible.
+- **Discord Bots & Integrations:** Building community helpers using Discord.js to improve engagement and support.
+- **Linux & Server Management:** Managing servers, writing scripts, and keeping things stable and secure through automation.
 
 ---
 
-### 📫 Get in Touch
+### 💡 My Toolbox
 
-If you’re interested in collaborating or just want to say hi, feel free to reach out:
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React, Vue.js
+- **Scripting & Automation:** Python, Node.js, Bash — I like making repetitive jobs disappear.
+- **APIs & Databases:** REST, MongoDB, PostgreSQL (I love Supabase ❤️), integrating third-party services
+- **DevOps Basics:** Git, Webpack, Jest, CI/CD, along with managing Linux servers and writing cron jobs
 
-- **Email:** info@vizitor.hu
+---
 
-Let’s create something amazing together! 🚀
+### 🌱 What I’m Learning & Exploring
+
+- **AI in Web:** Experimenting with LLM's to make smarter, interactive web apps.
+- **Serverless & Cloud:** Playing with AWS Lambda and Netlify Functions for flexible backend setups.
+- **Progressive Web Apps:** Creating fast, offline-ready experiences.
+- **Linux & Systems:** Getting deeper into system administration, bash scripting, automation, and security.
+
+---
+
+### 📫 Let’s Connect
+
+Want to chat, collaborate, or just say hey? Reach me here:
+
+- **Email:** [info@vizitor.hu](mailto:info@vizitor.hu)
+
+Looking forward to building cool things together! 🚀
