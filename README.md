@@ -1,6 +1,6 @@
-## Hey there! I’m a Digital Marketer & Frontend Developer 👋
+## Hey there! I’m a Web Developer with a marketing perspective 👋
 
-I’m someone who enjoys blending creativity with code. With a background in digital marketing and a knack for frontend development, I like building projects that look good, work smoothly, and help businesses connect with people better. I’m also into the nitty-gritty behind the scenes—like servers, Linux, and automating systems—to keep things running efficiently and securely.
+I’m someone who enjoys blending creativity with code. With a background in digital marketing and a knack for web development, I like building projects that look good, work smoothly, and help businesses connect with people better. I’m also into the nitty-gritty behind the scenes—like servers, Linux, and automating systems—to keep things running efficiently and securely.
 
 ---
 
