@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sándor
+# 👋 Hey, I'm Alex!
 
 Web developer focused on scalable apps, automation, and Linux systems.  
 
